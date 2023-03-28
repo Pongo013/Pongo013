@@ -3,7 +3,6 @@
 Cursando 3º ano de Informática integrado ao ensino médio.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pongo013&theme=transparent&count-private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pongo013&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Davi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
