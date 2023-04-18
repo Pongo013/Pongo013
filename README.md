@@ -1,4 +1,4 @@
-# Olá, eu sou o Davi!
+# Olá, aqui é o Davi!
 
 Cursando 3º ano de Informática integrado ao ensino médio.
 
